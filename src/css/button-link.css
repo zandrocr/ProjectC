@@ -1,0 +1,2 @@
+@import url("https://fonts.googleapis.com/css2?family=Smooch+Sans&display=swap");.capBt{width:20vh;height:5vh;font-family:"Smooch Sans",sans-serif;color:#000;font-size:25px;font-weight:bold;border:solid 1px #e07f00;border-radius:1vh;-webkit-transition:.3s;transition:.3s;cursor:pointer}.capBt:hover{color:#e07f00;background:#000}.capBt:hover .bt{color:#e07f00}.bt{color:#000;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+/*# sourceMappingURL=button-link.css.map */

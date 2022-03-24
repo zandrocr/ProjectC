@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,OAAO,CAAC,wEAAI,CDEZ,AAAA,IAAI,AAAC,CACD,WAAW,CAAE,MAAM,CAOK,AAR5B,AAGI,IAHA,CAGA,MAAM,AAAC,CACH,aAAa,CAAE,GAAG,CAClB,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,GAAG,CACX,aAAa,CAAE,GAAG,CAClB,UAAU,CAAE,GAAG,CAAG,AAE1B,AAAA,CAAC,AAAC,CACE,UAAU,CAAE,GAAG,CACf,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,IAAI,CAAG",
+    "sources": [
+        "../sass/form.sass",
+        "../sass/_formatText.sass"
+    ],
+    "names": [],
+    "file": "form.css"
+}
